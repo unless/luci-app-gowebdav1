@@ -4,7 +4,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=LuCI support for GoWebDav
+LUCI_TITLE:=LuCI support for GoWebDav1
 LUCI_DEPENDS:=+gowebdav
 LUCI_PKGARCH:=all
 
